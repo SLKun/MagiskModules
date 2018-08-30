@@ -1,13 +1,23 @@
-# Google Camera for MIUI on XiaoMi 5
+# **Google Camera for MIUI on XiaoMi 5**
+
+## Description
+
 This module enables HAL3 and fix front camera on Mi5, plus Gcam for MIUI.
 
-## Instructions ##
+## Changelog
 
-* __Install Module__ via Magisk Manager/TWRP
-* __Reboot__ Device
-* __Use__ builtin Google Camera for MIUI.
+- v20180830
 
-## Changelog ##
+first release
 
-##### V1.0.0 #####
-* __Initial Release__
+## Requirements
+
+No Requirements.
+
+## Instructions
+
+Just download and install it.
+
+## Links
+
+[Latest stable Magisk](http://www.tiny.cc/latestmagisk)

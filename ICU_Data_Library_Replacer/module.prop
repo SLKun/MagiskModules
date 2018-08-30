@@ -1,0 +1,7 @@
+id=icudtreplacer
+name=ICU Data Library Replacer
+version=v20180830
+versionCode=20180830
+author=acapairy, SLKun
+description=This module replaces the default icudt58l.dat file with a new one correctly edited for replacing Chinese to English.
+minMagisk=1500

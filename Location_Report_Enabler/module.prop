@@ -1,7 +1,7 @@
 id=LocationReportEnabler
 name=Location Report Enabler
 version=v20180830
-versionCode=0
+versionCode=20180830
 author=SLKun
 description=set gsm.sim.operator.numeric=310030 and set gsm.sim.operator.iso-country=us
 minMagisk=1500

@@ -1,0 +1,7 @@
+id=cngpsconf
+name=CN Optimized GPS File Replacer
+version=v20180830
+versionCode=20180830
+author=ianhughes74, uvera, SLKun
+description=This module replaces the default gps.conf file with a new one correctly edited for a better improvement and faster locking.
+minMagisk=1500
