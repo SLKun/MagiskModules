@@ -12,3 +12,6 @@ Some Tweaks for XiaoMi5 of MIUI10(EU)
 
 Enable Location Report for Chinese User.
 
+3. Google Camera for MIUI on XiaoMi 5
+
+Enables HAL3 and fix front camera on Mi5, plus Gcam for MIUI.
