@@ -4,7 +4,7 @@
 
 Enable Google Location Report and Google Map Timeline in China(RPC).
 
-Just after set property value below after registied celler network.
+Just set property value below after registered celler network.
 
 ```bash
 setprop gsm.sim.operator.numeric 310030
