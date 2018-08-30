@@ -26,7 +26,7 @@ first release
 
 ## Requirements
 
-No Requirements expect you use XiaoMi 5 or at least SD820.
+No Requirements except you use XiaoMi 5 or at least SD820.
 
 ## Instructions
 
