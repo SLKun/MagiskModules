@@ -1,0 +1,34 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: euEuJG/yIx4sl5xA2il+bEDdVbY=
+Created-By: 1.0 (Android SignApk)
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest-Manifest: pVUJ9D5th6d2sD8aeNp5zhiBUcs=
+
+Name: module.prop
+SHA1-Digest-Manifest: ztuIZlBSsC40aHN1z9Cs74qTJ2A=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest-Manifest: s28YMQUeQ4bqgK1UB4Sr/4f/pEQ=
+
+Name: common/post-fs-data.sh
+SHA1-Digest-Manifest: SyX3X/PeDY9ntN8RXeBKc888YZg=
+
+Name: common/system.prop
+SHA1-Digest-Manifest: YprT2+iWpfX+nl3yZfOJLS6oywU=
+
+Name: system/etc/permissions/android.hardware.camera.full.xml
+SHA1-Digest-Manifest: XtYq2iRqNM2ECmi4vbhse9P+Dbs=
+
+Name: system/etc/permissions/android.hardware.camera.raw.xml
+SHA1-Digest-Manifest: IGoCE9NJQGJFgOiE5ZqjJRbHkw0=
+
+Name: common/service.sh
+SHA1-Digest-Manifest: TOn/zXTfuf86lkAJLKXrKctujsY=
+
+Name: config.sh
+SHA1-Digest-Manifest: cE7MimuZ3ObS+5pbcpy2dnpExzQ=
+
+Name: README.md
+SHA1-Digest-Manifest: U2tKje3M3zzV/Ae1U3G5hplPfyg=
+
