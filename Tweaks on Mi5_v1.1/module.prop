@@ -1,0 +1,7 @@
+id=Mi5Tweaks
+name=Tweaks on Mi5
+version=v1.01
+versionCode=0
+author=uvera, SLKun
+description=1.fingerprint wakeup 2.disbale ramdump 3.disbale LMK log 4.enable wcd9330 features
+minMagisk=1500
