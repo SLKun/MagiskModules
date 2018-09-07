@@ -3,5 +3,5 @@ name=GCam for MIUI on Mi5
 version=v20180830
 versionCode=20180830
 author=SLKun
-description=This module enables HAL3 and fix front camera on Mi5, plus Gcam for MIUI.
+description=This module enables HAL3 and fix front camera on Mi5
 minMagisk=1500

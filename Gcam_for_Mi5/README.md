@@ -2,9 +2,13 @@
 
 ## Description
 
-This module enables HAL3 and fix front camera on Mi5, plus Gcam for MIUI.
+This module enables HAL3 and fix front camera on Mi5.
 
 ## Changelog
+
+- v20180907
+
+remove GCam app, for settings may lost
 
 - v20180830
 

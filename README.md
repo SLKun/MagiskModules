@@ -14,7 +14,7 @@ Enable Location Report for Chinese User.
 
 3. Google Camera for MIUI on XiaoMi 5
 
-Enables HAL3 and fix front camera on Mi5, plus Gcam for MIUI.
+Enables HAL3 and fix front camera on Mi5.
 
 4. CN Optimized GPS File Replacer
 
@@ -23,3 +23,7 @@ This module replaces the default gps.conf file with a new one correctly edited f
 5. ICU Data Library Replacer
 
 This module replaces the default icudt58l.dat file with a new one correctly edited for replacing Chinese to English.
+
+6. System Mipush Disabler
+
+Disable System Mipush for unofficial MIUI, for using [MiPushFramework](https://github.com/Trumeet/MiPushFramework).
