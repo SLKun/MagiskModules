@@ -1,7 +1,7 @@
-id=mi5-global-debloat
-name=Mi5 Global Stable Debloat
-version=v2.9
-versionCode=20
-author=chhapil
-description=This module will debloat & Optimize the Global Stable MIUI version for Mi5
+id=mipushDisabler
+name=MIUI MiPush Disabler
+version=v20180909
+versionCode=20180909
+author=SLKun
+description=Disable System Mipush for unofficial MIUI, for using [MiPushFramework](https://github.com/Trumeet/MiPushFramework).
 minMagisk=1500

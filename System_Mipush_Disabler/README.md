@@ -6,7 +6,7 @@ Disable System Mipush for unofficial MIUI, for using [MiPushFramework](https://g
 
 ## Changelog
 
-- v20180
+- v20180909
 
 first release
 
