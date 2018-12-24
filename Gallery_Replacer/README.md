@@ -6,6 +6,10 @@ Replace Android Gallery with SnapGallery
 
 ## Changelog
 
+- v20181224
+
+fix embedded photoEditor broken
+
 - v20181125
 
 first release
