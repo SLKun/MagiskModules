@@ -1,7 +1,7 @@
 id=galleryReplacer
 name=Gallery Replacer
-version=v20181224
-versionCode=20181224
+version=v20190113
+versionCode=20180113
 author=SLKun
 description=Replace Android Gallery with SnapGallery
 minMagisk=1500
