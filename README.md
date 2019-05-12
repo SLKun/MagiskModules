@@ -27,3 +27,11 @@ This module replaces the default icudt58l.dat file with a new one correctly edit
 6. System Mipush Disabler
 
 Disable System Mipush for unofficial MIUI, for using [MiPushFramework](https://github.com/Trumeet/MiPushFramework).
+
+7. Gallery Replacer
+
+Replace Android Gallery with SnapGallery
+
+8. Fix Magisk Context
+
+Fix selinux context for magisk modules on v19.1 (maybe later)

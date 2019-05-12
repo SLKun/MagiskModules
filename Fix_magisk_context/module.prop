@@ -1,0 +1,6 @@
+id=fixMagiskContext
+name=Fix Magisk Context
+version=v20190513
+versionCode=20190513
+author=SLKun
+description=Fix selinux context for magisk modules on v19.1 (maybe later)
