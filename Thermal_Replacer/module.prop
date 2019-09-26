@@ -1,0 +1,7 @@
+id=customthermal
+name=Custom Thermal File
+version=v20190614
+versionCode=20190614
+author=SLKun
+description=This module replaces the default thermal-engine-8996.conf file with a custom file.
+minMagisk=1500
