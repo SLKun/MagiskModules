@@ -35,3 +35,7 @@ Replace Android Gallery with SnapGallery
 8. Fix Magisk Context
 
 Fix selinux context for magisk modules on v19.1 (maybe later)
+
+9. MIUI Theme Store CN
+
+Enable CN MIUI Theme Store for miui.eu.

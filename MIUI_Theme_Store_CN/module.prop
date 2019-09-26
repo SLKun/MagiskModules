@@ -1,0 +1,7 @@
+id=MIUIThemeStoreCN
+name=MIUI Theme Store CN
+version=v20180911
+versionCode=20180911
+author=SLKun
+description=Enable CN MIUI Theme Store for miui.eu
+minMagisk=1500
